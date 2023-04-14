@@ -4,8 +4,6 @@
 
 Mong cái này sẽ giúp được mọi người được, và do đó chỉ tham khảo cách làm và hiểu code chứ đừng copy paste mà không hiểu nha
 
-Lưu ý: code toàn bộ bằng C++ và mình chưa up đề lên, mình sẽ up sau ( if rảnh :))) )
-       
-       ngoài những bài code này, ở môn này, mình còn các bài đề án nho nhỏ khác, và chúng sẽ ở trong các repositories khác
+Lưu ý: code toàn bộ bằng C++ và mình chưa up đề lên, mình sẽ up sau ( if rảnh :))) ), ngoài những bài code này, ở môn này, mình còn các bài đề án nho nhỏ khác, và chúng sẽ ở trong các repositories khác
 
 Date start: 14/4/2023
